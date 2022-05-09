@@ -696,7 +696,8 @@ img {
   color: #FFF;
 }
 .project__img{
-  width: 232px;
+  height: 300px;
+  width: auto;
   justify-self: center;
 }
 
@@ -1034,7 +1035,8 @@ img {
     width: 450px;
   }
   .portfolio__img{
-    width: 320px;
+    width: auto;
+    height: 400px;
   }
   .portfolio__content{
     align-items: center;
